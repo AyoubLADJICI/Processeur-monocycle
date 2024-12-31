@@ -1,0 +1,120 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ayoub\Desktop\Projet VHDL\Partie 3\simu
+Edecodeur
+Z1 w1718664490
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 8../src/Decodeur.vhd
+Z5 F../src/Decodeur.vhd
+l0
+L5
+VUENEl<7oS2kG`_e_XZUb>1
+Z6 OV;C;6.5b;42
+33
+Z7 o-2008 -O0
+Z8 tExplicit 1
+!s100 lAh4Z^EnoQ:0IiU=[PFQL2
+Abehavioural
+R2
+R3
+Z9 DEx4 work 8 decodeur 0 22 UENEl<7oS2kG`_e_XZUb>1
+l16
+L13
+V8`lN3Ua<2@19:BZkMda0=2
+R6
+33
+Z10 Mx2 4 ieee 14 std_logic_1164
+Z11 Mx1 4 ieee 11 numeric_std
+R7
+R8
+!s100 RIRAlQVGg8N<b0>jbP11W0
+Eregistre32
+Z12 w1715355561
+R2
+R3
+Z13 8../src/Registre32.vhd
+Z14 F../src/Registre32.vhd
+l0
+L5
+V50CjVCQmG]BlIEJT=2C102
+R6
+33
+R7
+R8
+!s100 gBfllzMm7HF32;KeEEi`E3
+Abehavioural
+R2
+R3
+Z15 DEx4 work 10 registre32 0 22 50CjVCQmG]BlIEJT=2C102
+l17
+L14
+VSg:`Gl<hRFhiG<iBISPkD0
+R6
+33
+R10
+R11
+R7
+R8
+!s100 HVYLbBzmTkTl]:dM`C_4L1
+Etb_unite_de_controle
+Z16 w1718735625
+R2
+R3
+Z17 8tb_unite_de_controle.vhd
+Z18 Ftb_unite_de_controle.vhd
+l0
+L5
+VjfBdCCR4<3V[^dhJW<lDh2
+!s100 ]m;hJU==K0RIHUMK1KHhD3
+R6
+33
+R7
+R8
+Atestbench
+Z19 DEx4 work 17 unite_de_controle 0 22 ;[TLE`9_EjW15U4V7o4f_2
+R2
+R3
+Z20 DEx4 work 20 tb_unite_de_controle 0 22 jfBdCCR4<3V[^dhJW<lDh2
+l16
+L8
+Z21 VU:N8;?4UiRX?6`Ph7MjUn1
+Z22 !s100 @LHTQeBZ:@UG_URB:F<[i2
+R6
+33
+R10
+R11
+R7
+R8
+Eunite_de_controle
+Z23 w1718734567
+R2
+R3
+Z24 8../src/unite_de_controle.vhd
+Z25 F../src/unite_de_controle.vhd
+l0
+L5
+V;[TLE`9_EjW15U4V7o4f_2
+R6
+33
+R7
+R8
+!s100 6Djinf;[<5AJ5@lWWb5aV2
+Abehavioural
+R15
+R9
+R2
+R3
+R19
+l19
+L15
+VF;2B[]=Lb[HVb]>Dbn0<E3
+!s100 lH9IISU1J]QHVU?;@eMSh1
+R6
+33
+R10
+R11
+R7
+R8

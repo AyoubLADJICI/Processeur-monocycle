@@ -1,0 +1,468 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ayoub\Desktop\Projet VHDL\Partie 1\simu
+Ebanc_de_registre
+Z1 w1715187089
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 8../src/banc_de_registre.vhd
+Z5 F../src/banc_de_registre.vhd
+l0
+L5
+V[DES7N2OlV>jj=l3zBbR61
+Z6 OV;C;6.5b;42
+31
+Z7 o-93 -O0
+Z8 tExplicit 1 NoCoverage 1 CoverShortCircuit 0
+!s100 fMRIDl[XU:5QQzef58P<<2
+Abehavorial
+R2
+R3
+Z9 DEx4 work 16 banc_de_registre 0 22 [DES7N2OlV>jj=l3zBbR61
+l34
+L16
+Vd?F]OUPZL^;4PR[NWi8L11
+R6
+31
+Z10 Mx2 4 ieee 14 std_logic_1164
+Z11 Mx1 4 ieee 11 numeric_std
+R7
+R8
+!s100 VK4c0>W7bZcFRUS6Xida20
+Eextension_signe
+R1
+R2
+R3
+Z12 8../src/extension_signe.vhd
+Z13 F../src/extension_signe.vhd
+l0
+L5
+VOnW57=3353>YZaWjmL8m^2
+R6
+31
+R7
+R8
+!s100 6m9nbAX6Fh6?8bQBdn>n_3
+Abehavorial
+R2
+R3
+Z14 DEx4 work 15 extension_signe 0 22 OnW57=3353>YZaWjmL8m^2
+l14
+L13
+VzUcBakl]bR0fEU0TW>5en3
+R6
+31
+R10
+R11
+R7
+R8
+!s100 9`Cg;k91PdO_]Bg[SElYb2
+Ememoire_de_donnees
+Z15 w1715249040
+R2
+R3
+Z16 8../src/memoire_de_donnees.vhd
+Z17 F../src/memoire_de_donnees.vhd
+l0
+L5
+V]<7oXghiO3K1`_JinH2<B3
+R6
+31
+R7
+R8
+!s100 dXhjdm@MjjS39^YLAbb=l2
+Abehavioral
+R2
+R3
+Z18 DEx4 work 18 memoire_de_donnees 0 22 ]<7oXghiO3K1`_JinH2<B3
+l31
+L14
+V1@kDPglBbnPlibcQ8PIO<3
+R6
+31
+R10
+R11
+R7
+R8
+!s100 DB;N4?88_dL;nNCHhEoF=1
+Emux2v1
+Z19 w1715189443
+R2
+R3
+Z20 8../src/mux2v1.vhd
+Z21 F../src/mux2v1.vhd
+l0
+L5
+Vl8HG6kZ2S>;VDdY3Me=hN0
+R6
+31
+R7
+R8
+!s100 <ckfa8<Z_T6QfbDMbdHcX3
+Abehavorial
+R2
+R3
+Z22 DEx4 work 6 mux2v1 0 22 l8HG6kZ2S>;VDdY3Me=hN0
+l15
+L14
+VK@U0L8bTnU2CZkhbDW2Rd3
+R6
+31
+R10
+R11
+R7
+R8
+!s100 @;iE?OoM>oGR6CkSM;flh0
+Etb_banc_de_registre
+Z23 w1715169370
+R2
+R3
+Z24 8tb_banc_de_registre.vhd
+Z25 Ftb_banc_de_registre.vhd
+l0
+L5
+VcDMd4bB4`0WSZTh1NE0E<3
+R6
+33
+Z26 o-2008 -O0
+R8
+!s100 nHYkdk<^@l0R8[eRVBJbJ0
+Atestbench
+Z27 DEx4 work 16 banc_de_registre 0 22 TiGC]756Ygz@^zozhhVZS2
+R2
+R3
+DEx4 work 19 tb_banc_de_registre 0 22 cDMd4bB4`0WSZTh1NE0E<3
+l17
+L8
+VjY[Igg<XX61a3WbaQk42@3
+R6
+33
+R10
+R11
+R26
+R8
+!s100 PZ;H??0S3l>JAflP:b3VD0
+Etb_extension_signe
+Z28 w1715175128
+R2
+R3
+Z29 8tb_extension_signe.vhd
+Z30 Ftb_extension_signe.vhd
+l0
+L5
+ViZoTTLjo=4O_j?6MZ_eN^2
+R6
+31
+R7
+R8
+!s100 U74Mmc0Lb3XLnAmTf]`TB2
+Atestbench
+R14
+R2
+R3
+DEx4 work 18 tb_extension_signe 0 22 iZoTTLjo=4O_j?6MZ_eN^2
+l14
+L8
+VlBD<V[@jho@faHj3GN]k>1
+R6
+31
+R10
+R11
+R7
+R8
+!s100 ELXaLLeH1nYc895X1NzB`2
+Etb_memoire_de_donnees
+Z31 w1715185657
+R2
+R3
+Z32 8tb_memoire_de_donnees.vhd
+Z33 Ftb_memoire_de_donnees.vhd
+l0
+L5
+V350E2E63D85QI^Z<DLBUg1
+R6
+33
+R26
+R8
+!s100 fUT@8NzFDDYcRkFf8XO;62
+Atestbench
+DEx4 work 18 memoire_de_donnees 0 22 O4IzkD8kc^We?7YGdn04_2
+R2
+R3
+DEx4 work 21 tb_memoire_de_donnees 0 22 350E2E63D85QI^Z<DLBUg1
+l15
+L8
+VQnE0>RY<FjhABHiYUKb9h2
+R6
+33
+R10
+R11
+R26
+R8
+!s100 zgM0YVNQ`;UclOiBhMjn=1
+Etb_mux2v1
+Z34 w1715173804
+R2
+R3
+Z35 8tb_mux2v1.vhd
+Z36 Ftb_mux2v1.vhd
+l0
+L5
+V:>n@A:dIJj_B:K2dH92UJ0
+R6
+31
+R7
+R8
+!s100 YQ3@JZKL]EQ52zn7Z^MhK2
+Atestbench
+R22
+R2
+R3
+DEx4 work 9 tb_mux2v1 0 22 :>n@A:dIJj_B:K2dH92UJ0
+l14
+L8
+V1]m]RP^bWPQaZ9^0nYAP30
+R6
+31
+R10
+R11
+R7
+R8
+!s100 Jd]16[SXJMbUhTQYg7W@m1
+Etb_mux_2_to_1
+Z37 w1715172155
+R2
+R3
+R35
+R36
+l0
+L5
+VI>l0OHk8VW[N<gz7=Tz<M0
+R6
+31
+R7
+R8
+!s100 RGOJV2K_M2i328L3fSBTZ3
+Atestbench
+R22
+R2
+R3
+DEx4 work 13 tb_mux_2_to_1 0 22 I>l0OHk8VW[N<gz7=Tz<M0
+l14
+L8
+VF_4JS]ReK`O4kG8]kGmAk2
+R6
+31
+R10
+R11
+R7
+R8
+!s100 e7iK=XMH<LGGooKa3EK`^3
+Etb_sign_extension
+Z38 w1715174675
+R2
+R3
+R29
+R30
+l0
+L5
+V8z:`[eVnLgYicV[]>3?A51
+R6
+31
+R7
+R8
+!s100 1;>oJB>gFKz<=MRUk:=f00
+Atestbench
+R14
+R2
+R3
+DEx4 work 17 tb_sign_extension 0 22 8z:`[eVnLgYicV[]>3?A51
+l14
+L8
+VXXfh3@]4Pc7cYEI^iPi;R1
+R6
+31
+R10
+R11
+R7
+R8
+!s100 JU6ie>z[XHj`d?@z54eQH3
+Etb_ual
+Z39 w1718178920
+R2
+R3
+Z40 8tb_ual.vhd
+Z41 Ftb_ual.vhd
+l0
+L5
+VaJSnBU:=b8b8@8]=e^=Kh3
+!s100 QYFK@RPeAHVPN1z<>San63
+R6
+31
+R7
+R8
+Atestbench
+Z42 DEx4 work 3 ual 0 22 e5;0TV5;7>EbKRkPRie;i0
+R2
+R3
+Z43 DEx4 work 6 tb_ual 0 22 aJSnBU:=b8b8@8]=e^=Kh3
+l15
+L8
+Z44 VnTTVa;hn37zfAgNIY_An02
+Z45 !s100 _gTzlhg@TA1;?7;QUKmGd3
+R6
+31
+R10
+R11
+R7
+R8
+Etb_ual_et_banc_de_registre
+Z46 w1715164865
+R2
+R3
+Z47 8tb_ual_et_banc_de_registre.vhd
+Z48 Ftb_ual_et_banc_de_registre.vhd
+l0
+L5
+VMLLOm18i2^Ek2YE8;ShH<0
+R6
+33
+R26
+R8
+!s100 FmEEeLOd:6<9MTmiIeamJ3
+Atestbench
+Z49 DEx4 work 23 ual_et_banc_de_registre 0 22 Y8C^e73nezWbFoQSTT41S0
+R2
+R3
+DEx4 work 26 tb_ual_et_banc_de_registre 0 22 MLLOm18i2^Ek2YE8;ShH<0
+l19
+L8
+Vh065g:V4H@GlI1Qajad380
+R6
+33
+R10
+R11
+R26
+R8
+!s100 >@ANO]G5dcJ4N9NT5j8fg0
+Etb_unite_de_traitement
+Z50 w1715193922
+R3
+Z51 8tb_unite_de_traitement.vhd
+Z52 Ftb_unite_de_traitement.vhd
+l0
+L4
+V>9EJhQ8DCad:cLNc8QLc_2
+R6
+31
+R7
+R8
+!s100 PX7eYNJLaW6[f6n5HJn560
+Atestbench
+R2
+Z53 DEx4 work 19 unite_de_traitement 0 22 SGoNY9[U=Tfb1d9[3[0YL1
+R3
+DEx4 work 22 tb_unite_de_traitement 0 22 >9EJhQ8DCad:cLNc8QLc_2
+l20
+L7
+VfC?^NdPYnPJaM5_ci9D]82
+R6
+31
+R10
+R11
+R7
+R8
+!s100 4?dLin_`B0oRe83hdQhl40
+Eual
+Z54 w1718179080
+R2
+R3
+Z55 8../src/ual.vhd
+Z56 F../src/ual.vhd
+l0
+L5
+Ve5;0TV5;7>EbKRkPRie;i0
+R6
+31
+R7
+R8
+!s100 Z5<F8[4T_90AMeoR5[hUQ3
+Abehavorial
+R2
+R3
+R42
+l15
+L14
+V3iI_AEi3R=O1Gd9Qm[mIi0
+R6
+31
+R10
+R11
+R7
+R8
+!s100 SIa7JjeT>JLn7aUj;O:RE1
+Eual_et_banc_de_registre
+Z57 w1715094018
+R2
+R3
+Z58 8../src/ual_et_banc_de_registre.vhd
+Z59 F../src/ual_et_banc_de_registre.vhd
+l0
+L5
+VY8C^e73nezWbFoQSTT41S0
+R6
+33
+R26
+R8
+!s100 QmAV_d@gn>l]Pe3Mk6^>^1
+Abehavioral
+DEx4 work 3 ual 0 22 U1;>9JOB[RXTBZOCoBcIg2
+R27
+R2
+R3
+R49
+l18
+L15
+VJ?93G5ShnaXNRgM`2W0zP1
+R6
+33
+R10
+R11
+R26
+R8
+!s100 ]<Rkj2oG:EiE;7JfOoRS40
+Eunite_de_traitement
+Z60 w1715193555
+R2
+R3
+Z61 8../src/unite_de_traitement.vhd
+Z62 F../src/unite_de_traitement.vhd
+l0
+L5
+VSGoNY9[U=Tfb1d9[3[0YL1
+R6
+31
+R7
+R8
+!s100 94G?g@O1CP:Dg<bK7JbJ`2
+Abehavioral
+R18
+R14
+R22
+R42
+R9
+R2
+R3
+R53
+l22
+L19
+VDBA83OF]kZfiKSU;Gi3Y71
+R6
+31
+R10
+R11
+R7
+R8
+!s100 6X2ePEXo50W2KUU;41<OZ1
